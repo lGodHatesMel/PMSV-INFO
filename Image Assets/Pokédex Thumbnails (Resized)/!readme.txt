@@ -1,0 +1,1 @@
+Note that these were manually resized to 1280x720, from the original 1024x1024. These resized images more accurately match how the textures are displayed in-game.
